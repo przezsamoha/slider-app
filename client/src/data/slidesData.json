@@ -1,0 +1,34 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "text": "Krzesło stolarskie | proj. Wanda Genga | 1958",
+      "imageURL": "https://meblostan.pl/wp-content/uploads/2020/01/23.jpg",
+      "audioURL": "url_do_audio_1"
+    },
+    {
+      "id": 2,
+      "text": "Krzesło stolarskie z kompletu 1379 | proj. Rajmund Teofil Hałas | 1960",
+      "imageURL": "https://meblostan.pl/wp-content/uploads/2021/05/D__6801.jpg",
+      "audioURL": "url_do_audio_2"
+    },
+    {
+      "id": 3,
+      "text": "Krzesło stolarskie typ 200-102 | proj. Maria Chomentowska | 1959 roku",
+      "imageURL": "https://meblostan.pl/wp-content/uploads/2021/11/L9B3145.jpg",
+      "audioURL": "url_do_audio_1"
+    },
+    {
+      "id": 4,
+      "text": "Krzesło zydel | proj. Władysław Wincze, Olgierd Szlekys | 1945",
+      "imageURL": "https://meblostan.pl/wp-content/uploads/2020/10/D__5432.jpg",
+      "audioURL": "url_do_audio_1"
+    },
+    {
+      "id": 3,
+      "text": "Krzesło stolarskie typ 200-101 | proj. Janusz Różański | 1960",
+      "imageURL": "https://meblostan.pl/wp-content/uploads/2021/11/D__0770.jpg",
+      "audioURL": "url_do_audio_1"
+    }
+  ]
+}

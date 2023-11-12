@@ -1,0 +1,52 @@
+.slider {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrow {
+  background-color: transparent;
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  color: grey;
+}
+
+.arrow:hover {
+  cursor: pointer;
+  color: black;
+  transition: 150ms ease-in-out;
+}
+
+.arrow-left {
+  left: 1rem;
+}
+
+.arrow-right {
+  right: 1rem;
+}
+
+.all-slides-indicators {
+  background-color: transparent;
+  display: flex;
+  margin-top: 2rem;
+}
+
+.single-slide-indicator {
+  background-color: tomato;
+  height: 0.5rem;
+  width: 0.5rem;
+  border-radius: 100%;
+  border: none;
+  outline: none;
+  margin: 0 0.2rem;
+  cursor: pointer;
+}
+
+.slide-indicator-inactive {
+  background-color: gray;
+}

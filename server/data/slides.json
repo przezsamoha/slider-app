@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "text": "The Chrysalids by John Wyndham | read by Robert Powell",
+      "imageURL": "https://m.media-amazon.com/images/I/61LPWdXmS+L._AC_UF894,1000_QL80_.jpg",
+      "audioURL": "https://ia802201.us.archive.org/25/items/john-whyndham-the-chrysalids/John%20Whyndham%20The%20Chrysalids.mp3"
+    },
+    {
+      "id": 2,
+      "text": "The Inexperienced Ghost byH.G.Wells | BBC Radio adaptation by Derek Hoddinott",
+      "imageURL": "https://m.media-amazon.com/images/I/51svKsTY7NL._AC_UF1000,1000_QL80_.jpg",
+      "audioURL": "https://ia801505.us.archive.org/20/items/HGWellsBBCr4/16%20The%20Inexperienced%20Ghost.mp3"
+    },
+    {
+      "id": 3,
+      "text": "The Kraken Wakens by John Wyndham | read by Stephen Moore",
+      "imageURL": "https://i.pinimg.com/564x/35/ce/62/35ce62c8c97b5898318e2b76eeda63eb.jpg",
+      "audioURL": "https://ia802700.us.archive.org/2/items/the-kraken-wakes-by-john-wyndham_202307/Episode%2001%20-%20Stephen%20Moore%20reads%20The%20Kraken%20Wakes%20by%20John%20Wyndham.mp3"
+    },
+    {
+      "id": 4,
+      "text": "In The Abyss by H.G.Wells | read by Timothy Kitely",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382974050i/18723832.jpg",
+      "audioURL": "https://ia601505.us.archive.org/20/items/HGWellsBBCr4/12%20In%20the%20Abyss.mp3"
+    },
+
+    {
+      "id": 5,
+      "text": "The Day of the Triffids by John Wyndham | BBC Radio adaptation by Giles Cooper",
+      "imageURL": "https://live.staticflickr.com/1131/1413269845_cd6b96b132_b.jpg",
+      "audioURL": "https://ia601001.us.archive.org/13/items/DayTriffids1968/1_The%20End%20Begins.mp3"
+    }
+  ]
+}

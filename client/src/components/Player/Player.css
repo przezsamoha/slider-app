@@ -1,0 +1,20 @@
+.player {
+  align-items: center;
+  justify-content: center;
+}
+
+.sound-icon {
+  background-color: transparent;
+  position: absolute;
+  color: grey;
+  width: 2rem;
+  height: 2rem;
+  right: 1rem;
+  top: 1rem;
+}
+
+.sound-icon:hover {
+  cursor: pointer;
+  color: black;
+  transition: 150ms ease-in-out;
+}
